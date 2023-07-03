@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HXCz3vyoTa3DJr+sNM4hCQD/4ZyBLZGK/HQhncMTLOs=",
+  "Source": "OnlineAccountingServer.WebApi",
+  "BasePath": "_content/OnlineAccountingServer.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
