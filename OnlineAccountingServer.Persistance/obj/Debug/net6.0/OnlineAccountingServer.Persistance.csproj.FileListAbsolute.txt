@@ -1,0 +1,17 @@
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Persistance\bin\Debug\net6.0\OnlineAccountingServer.Persistance.deps.json
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Persistance\bin\Debug\net6.0\OnlineAccountingServer.Persistance.runtimeconfig.json
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Persistance\bin\Debug\net6.0\OnlineAccountingServer.Persistance.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Persistance\bin\Debug\net6.0\OnlineAccountingServer.Persistance.pdb
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Persistance\bin\Debug\net6.0\OnlineAccountingServer.Domain.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Persistance\bin\Debug\net6.0\OnlineAccountingServer.Domain.pdb
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Persistance\obj\Debug\net6.0\OnlineAccountingServer.Persistance.csproj.AssemblyReference.cache
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Persistance\obj\Debug\net6.0\OnlineAccountingServer.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Persistance\obj\Debug\net6.0\OnlineAccountingServer.Persistance.AssemblyInfoInputs.cache
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Persistance\obj\Debug\net6.0\OnlineAccountingServer.Persistance.AssemblyInfo.cs
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Persistance\obj\Debug\net6.0\OnlineAccountingServer.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Persistance\obj\Debug\net6.0\OnlineAccountingServer.Persistance.csproj.CopyComplete
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Persistance\obj\Debug\net6.0\OnlineAccountingServer.Persistance.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Persistance\obj\Debug\net6.0\refint\OnlineAccountingServer.Persistance.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Persistance\obj\Debug\net6.0\OnlineAccountingServer.Persistance.pdb
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Persistance\obj\Debug\net6.0\OnlineAccountingServer.Persistance.genruntimeconfig.cache
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Persistance\obj\Debug\net6.0\ref\OnlineAccountingServer.Persistance.dll

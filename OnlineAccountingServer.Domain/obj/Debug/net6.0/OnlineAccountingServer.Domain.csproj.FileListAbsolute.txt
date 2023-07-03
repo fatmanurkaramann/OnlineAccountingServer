@@ -1,0 +1,12 @@
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Domain\bin\Debug\net6.0\OnlineAccountingServer.Domain.deps.json
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Domain\bin\Debug\net6.0\OnlineAccountingServer.Domain.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Domain\bin\Debug\net6.0\OnlineAccountingServer.Domain.pdb
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Domain\obj\Debug\net6.0\OnlineAccountingServer.Domain.csproj.AssemblyReference.cache
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Domain\obj\Debug\net6.0\OnlineAccountingServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Domain\obj\Debug\net6.0\OnlineAccountingServer.Domain.AssemblyInfoInputs.cache
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Domain\obj\Debug\net6.0\OnlineAccountingServer.Domain.AssemblyInfo.cs
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Domain\obj\Debug\net6.0\OnlineAccountingServer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Domain\obj\Debug\net6.0\OnlineAccountingServer.Domain.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Domain\obj\Debug\net6.0\refint\OnlineAccountingServer.Domain.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Domain\obj\Debug\net6.0\OnlineAccountingServer.Domain.pdb
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Domain\obj\Debug\net6.0\ref\OnlineAccountingServer.Domain.dll
