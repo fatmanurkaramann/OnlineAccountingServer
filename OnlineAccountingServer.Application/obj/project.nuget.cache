@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qbxKdEtGu/peluqSvrDiQmBzWAoyzV/aFciWGnLJ+jZvV32Sbqh1FYrzbHm2t+aegRMc351w37vB1irqKUS3Pw==",
+  "dgSpecHash": "raiIiMA3HuxiHXJ1qej0RnBjzNfRoXaOP8gGOUjFlMeP/eh9w7Yux5R1QPxiNu3NOD6ddyslcUFPY6JyzwEgyQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\OnlineAccountingServer\\OnlineAccountingServer.Application\\OnlineAccountingServer.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\fato\\.nuget\\packages\\mediatr\\6.0.0\\mediatr.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -70,3 +70,4 @@ C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer
 C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.WebApi\bin\Debug\net6.0\OnlineAccountingServer.Domain.pdb
 C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.WebApi\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll

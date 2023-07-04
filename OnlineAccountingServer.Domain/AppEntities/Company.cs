@@ -15,5 +15,9 @@ namespace OnlineAccountingServer.Domain.AppEntities
         public string TaxDepartment { get; set; }
         public string Tel { get; set; }
         public string Email { get; set; }
+        public string ServerName { get; set; }
+        public string DatabaseName { get; set; }
+        public string UserId { get; set; }
+        public string Password { get; set; }
     }
 }
