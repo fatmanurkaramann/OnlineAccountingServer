@@ -1,4 +1,5 @@
 ﻿using OnlineAccountingServer.Application.Features.AppFeatures.CompanyFeatures.Commands.CreateCompany;
+using OnlineAccountingServer.Application.Features.AppFeatures.CompanyFeatures.Commands.MigrateCompanyDatabase;
 using OnlineAccountingServer.Domain.AppEntities;
 using System;
 using System.Collections.Generic;
@@ -11,6 +12,8 @@ namespace OnlineAccountingServer.Application.Services.AppServices
     public interface ICompanyService
     {
         Task CreateCompany(CreateCompanyRequest request);
+        Task MigrateCompanyDatabases( );
+
         Task<Company?> GetCompanyByName(string name);
     }
 }
