@@ -12,7 +12,11 @@
 
   <ItemGroup>
     <Folder Include="Features\AppFeatures\CompanyFeatures\Queries\" />
-    <Folder Include="Features\CompanyFeatures\" />
+    <Folder Include="Services\CompanyServices\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineAccountingServer.Domain\OnlineAccountingServer.Domain.csproj" />
   </ItemGroup>
 
 </Project>

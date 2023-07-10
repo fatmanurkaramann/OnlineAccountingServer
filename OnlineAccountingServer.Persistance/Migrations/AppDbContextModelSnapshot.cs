@@ -139,6 +139,9 @@ namespace OnlineAccountingServer.Persistance.Migrations
                     b.Property<DateTime>("CretedDate")
                         .HasColumnType("datetime2");
 
+                    b.Property<string>("DatabaseName")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Email")
                         .HasColumnType("nvarchar(max)");
 
@@ -146,6 +149,12 @@ namespace OnlineAccountingServer.Persistance.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Password")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ServerName")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("TaxDepartment")
@@ -156,6 +165,9 @@ namespace OnlineAccountingServer.Persistance.Migrations
 
                     b.Property<DateTime?>("UpdatedDate")
                         .HasColumnType("datetime2");
+
+                    b.Property<string>("UserId")
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 

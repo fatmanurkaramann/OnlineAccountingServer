@@ -10,3 +10,6 @@ C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer
 C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Application\obj\Debug\net6.0\refint\OnlineAccountingServer.Application.dll
 C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Application\obj\Debug\net6.0\OnlineAccountingServer.Application.pdb
 C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Application\obj\Debug\net6.0\ref\OnlineAccountingServer.Application.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Application\bin\Debug\net6.0\OnlineAccountingServer.Domain.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Application\bin\Debug\net6.0\OnlineAccountingServer.Domain.pdb
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Application\obj\Debug\net6.0\OnlineAccountingServer.Application.csproj.CopyComplete

@@ -15,3 +15,5 @@ C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer
 C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Persistance\obj\Debug\net6.0\OnlineAccountingServer.Persistance.pdb
 C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Persistance\obj\Debug\net6.0\OnlineAccountingServer.Persistance.genruntimeconfig.cache
 C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Persistance\obj\Debug\net6.0\ref\OnlineAccountingServer.Persistance.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Persistance\bin\Debug\net6.0\OnlineAccountingServer.Application.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Persistance\bin\Debug\net6.0\OnlineAccountingServer.Application.pdb

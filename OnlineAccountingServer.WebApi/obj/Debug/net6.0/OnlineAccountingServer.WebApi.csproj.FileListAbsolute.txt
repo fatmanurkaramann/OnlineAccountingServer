@@ -71,3 +71,9 @@ C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer
 C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.WebApi\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.WebApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.WebApi\bin\Debug\net6.0\MediatR.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.WebApi\bin\Debug\net6.0\OnlineAccountingServer.Application.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.WebApi\bin\Debug\net6.0\OnlineAccountingServer.Application.pdb
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.WebApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

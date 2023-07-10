@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using MediatR;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,5 +12,11 @@ namespace OnlineAccountingServer.Presantation.Abstraction
     [Route("api/[controller]")]
     public abstract class ApiController:ControllerBase
     {
+        protected readonly IMediator _mediatr;
+
+        protected ApiController(IMediator mediatr)
+        {
+            _mediatr = mediatr;
+        }
     }
 }

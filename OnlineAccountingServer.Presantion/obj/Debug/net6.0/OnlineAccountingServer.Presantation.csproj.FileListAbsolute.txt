@@ -10,3 +10,8 @@ C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer
 C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Presantion\obj\Debug\net6.0\refint\OnlineAccountingServer.Presantation.dll
 C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Presantion\obj\Debug\net6.0\OnlineAccountingServer.Presantation.pdb
 C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Presantion\obj\Debug\net6.0\ref\OnlineAccountingServer.Presantation.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Presantion\bin\Debug\net6.0\OnlineAccountingServer.Application.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Presantion\bin\Debug\net6.0\OnlineAccountingServer.Application.pdb
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Presantion\obj\Debug\net6.0\OnlineAccountingServer.Presantation.csproj.CopyComplete
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Presantion\bin\Debug\net6.0\OnlineAccountingServer.Domain.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Presantion\bin\Debug\net6.0\OnlineAccountingServer.Domain.pdb
