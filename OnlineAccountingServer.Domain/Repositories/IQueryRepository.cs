@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace OnlineAccountingServer.Domain.Repositories
 {
-    internal interface IQueryRepository<T>:IRepository<T>
+    public interface IQueryRepository<T>:IRepository<T>
         where T : Entity
     {
         IQueryable<T> GetAll();
