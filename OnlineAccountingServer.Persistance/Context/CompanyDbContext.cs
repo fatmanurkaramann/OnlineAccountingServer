@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
+using OnlineAccountingServer.Domain.Abstractions;
 using OnlineAccountingServer.Domain.AppEntities;
 
 namespace OnlineAccountingServer.Persistance.Context
@@ -52,6 +53,26 @@ namespace OnlineAccountingServer.Persistance.Context
                 
                 return new CompanyDbContext(new Company());
             }
+        }
+        public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
+        {
+            var entries = ChangeTracker.Entries<Entity>();
+
+            foreach (var item in entries)
+            {
+                if (item.State == EntityState.Added)
+                {
+
+                    item.Property(p => p.CretedDate)
+                        .CurrentValue = DateTime.Now;
+                }
+
+                if (item.State == EntityState.Modified)
+                {
+                    item.Property(p => p.UpdatedDate).CurrentValue = DateTime.Now;
+                }
+            }
+            return base.SaveChangesAsync(cancellationToken);
         }
     }
 }

@@ -28,7 +28,7 @@ namespace OnlineAccountingServer.Persistance.Repositories
         private CompanyDbContext _companyDbContext;
         public DbSet<T> Entity { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
-        public void CreateDbContextInstance(DbContext context)
+        public void SetDbContextInstance(DbContext context)
         {
             _companyDbContext=(CompanyDbContext)context;
             Entity=_companyDbContext.Set<T>();

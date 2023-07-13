@@ -29,8 +29,4 @@
     <ProjectReference Include="..\OnlineAccountingServer.Domain\OnlineAccountingServer.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Services\CompanyServices\" />
-  </ItemGroup>
-
 </Project>
