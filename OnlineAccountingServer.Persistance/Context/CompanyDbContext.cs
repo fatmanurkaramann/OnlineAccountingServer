@@ -5,11 +5,11 @@ using OnlineAccountingServer.Domain.AppEntities;
 
 namespace OnlineAccountingServer.Persistance.Context
 {
-    public sealed class CompanyDbContext:DbContext
+    public sealed class CompanyDbContext : DbContext
     {
-        private string ConnectionString ;
+        private string ConnectionString;
 
-        public CompanyDbContext(Company company=null)
+        public CompanyDbContext(Company company = null)
         {
             if (company != null)
             {
@@ -32,8 +32,8 @@ namespace OnlineAccountingServer.Persistance.Context
                   $"ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
                 }
             }
-         
-          
+
+
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -50,7 +50,7 @@ namespace OnlineAccountingServer.Persistance.Context
         {
             public CompanyDbContext CreateDbContext(string[] args)
             {
-                
+
                 return new CompanyDbContext(new Company());
             }
         }
