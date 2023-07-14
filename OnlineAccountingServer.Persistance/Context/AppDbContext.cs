@@ -35,7 +35,7 @@ namespace OnlineAccountingServer.Persistance.Context
             }
             return base.SaveChangesAsync(cancellationToken);
         }
-
+       
         public class AppDbContextFactory : IDesignTimeDbContextFactory<AppDbContext>
         {
             public AppDbContext CreateDbContext(string[] args)

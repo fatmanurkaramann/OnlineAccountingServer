@@ -6,6 +6,8 @@ using OnlineAccountingServer.Persistance.Repositories.UCAFRepositories;
 using OnlineAccountingServer.Persistance.Services.AppServices;
 using OnlineAccountingServer.Persistance.Services.CompanyServices;
 using OnlineAccountingServer.Persistance;
+using OnlineAccountingServer.Application.Abstractions;
+using OnlineAccountingServer.Infrastructure.Authentication;
 
 namespace OnlineAccountingServer.WebApi.Configurations
 {
