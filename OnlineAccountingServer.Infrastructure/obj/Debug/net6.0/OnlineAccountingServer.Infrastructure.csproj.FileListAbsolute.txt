@@ -10,3 +10,8 @@ C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer
 C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Infrastructure\obj\Debug\net6.0\refint\OnlineAccountingServer.Infrastructure.dll
 C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Infrastructure\obj\Debug\net6.0\OnlineAccountingServer.Infrastructure.pdb
 C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Infrastructure\obj\Debug\net6.0\ref\OnlineAccountingServer.Infrastructure.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Infrastructure\bin\Debug\net6.0\OnlineAccountingServer.Application.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Infrastructure\bin\Debug\net6.0\OnlineAccountingServer.Domain.dll
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Infrastructure\bin\Debug\net6.0\OnlineAccountingServer.Application.pdb
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Infrastructure\bin\Debug\net6.0\OnlineAccountingServer.Domain.pdb
+C:\Users\fato\Desktop\Yazılım\C#\OnlineAccountingServer\OnlineAccountingServer.Infrastructure\obj\Debug\net6.0\OnlineAccountingServer.Infrastructure.csproj.CopyComplete
